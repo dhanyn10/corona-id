@@ -224,15 +224,15 @@ Prov. D I Yogyakarta,3404,Sleman,"-7.69031,110.387",0
 Prov. D I Yogyakarta,3471,Kota Yogyakarta,"-7.80279,110.376",0
 Prov. Jawa Timur,3501,Pacitan,"-8.10083,111.161",0
 Prov. Jawa Timur,3502,Ponorogo,"-7.97311,111.531",0
-Prov. Jawa Timur,3503,Trenggalek,"-8.13936,111.617",0
+Prov. Jawa Timur,3503,Trenggalek,"-8.13936,111.617",1
 Prov. Jawa Timur,3504,Tulungagung,"-8.0756,111.916",5
-Prov. Jawa Timur,3505,Blitar,"-8.1394,112.215",0
+Prov. Jawa Timur,3505,Blitar,"-8.1394,112.215",1
 Prov. Jawa Timur,3506,Kediri,"-7.80293,112.059",7
-Prov. Jawa Timur,3507,Malang,"-8.09136,112.622",8
+Prov. Jawa Timur,3507,Malang,"-8.09136,112.622",10
 Prov. Jawa Timur,3508,Lumajang,"-8.12431,113.139",0
 Prov. Jawa Timur,3509,Jember,"-8.26315,113.673",0
-Prov. Jawa Timur,3510,Banyuwangi,"-8.33103,114.218",0
-Prov. Jawa Timur,3511,Bondowoso,"-7.94327,113.933",0
+Prov. Jawa Timur,3510,Banyuwangi,"-8.33103,114.218",1
+Prov. Jawa Timur,3511,Bondowoso,"-7.94327,113.933",1
 Prov. Jawa Timur,3512,Situbondo,"-7.79577,114.261",8
 Prov. Jawa Timur,3513,Probolinggo,"-7.86336,113.276",0
 Prov. Jawa Timur,3514,Pasuruan,"-7.74862,112.83",0
@@ -240,7 +240,7 @@ Prov. Jawa Timur,3515,Sidoarjo,"-7.45533,112.663",18
 Prov. Jawa Timur,3516,Mojokerto,"-7.54086,112.496",0
 Prov. Jawa Timur,3517,Jombang,"-7.55994,112.257",0
 Prov. Jawa Timur,3518,Nganjuk,"-7.61615,111.945",7
-Prov. Jawa Timur,3519,Madiun,"-7.61259,111.647",0
+Prov. Jawa Timur,3519,Madiun,"-7.61259,111.647",1
 Prov. Jawa Timur,3520,Magetan,"-7.65453,111.347",9
 Prov. Jawa Timur,3521,Ngawi,"-7.4286,111.394",0
 Prov. Jawa Timur,3522,Bojonegoro,"-7.22605,111.791",0
@@ -251,9 +251,9 @@ Prov. Jawa Timur,3526,Bangkalan,"-7.04863,112.909",0
 Prov. Jawa Timur,3527,Sampang,"-7.05851,113.262",0
 Prov. Jawa Timur,3528,Pamekasan,"-7.07227,113.5",0
 Prov. Jawa Timur,3529,Sumenep,"-7.00034,113.852",0
-Prov. Jawa Timur,3571,Kota Kediri,"-7.82422,112.016",0
+Prov. Jawa Timur,3571,Kota Kediri,"-7.82422,112.016",1
 Prov. Jawa Timur,3572,Kota Blitar,"-8.09311,112.165",0
-Prov. Jawa Timur,3573,Kota Malang,"-7.97649,112.627",0
+Prov. Jawa Timur,3573,Kota Malang,"-7.97649,112.627",8
 Prov. Jawa Timur,3574,Kota Probolinggo,"-7.78127,113.209",0
 Prov. Jawa Timur,3575,Kota Pasuruan,"-7.65633,112.905",0
 Prov. Jawa Timur,3576,Kota Mojokerto,"-7.46807,112.438",0
